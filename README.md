@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>2026届国网笔试培训 · 报名流程</title>
+<title>2026届国网面试培训 · 报名流程</title>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@700;900&display=swap" rel="stylesheet">
 <style>
 :root {
@@ -163,11 +163,11 @@ body { font-family: 'Noto Sans SC', sans-serif; background: var(--bg); color: va
 <!-- HEADER -->
 <div class="header">
   <div class="header-badge">优学互连教育</div>
-  <h1>2026届国网校园招聘·<span>笔试强化培训</span></h1>
+  <h1>2026届国网校园招聘·<span>面试强化培训</span></h1>
   <div class="header-meta">
     <span><i class="dot"></i>成绩公布：3月17日 09:00</span>
     <span><i class="dot"></i>培训开班：3月17日下午</span>
-    <span><i class="dot"></i>地点：酒店房改教室</span>
+    <span><i class="dot"></i>地点：西安高新区四季星辰酒店大厅</span>
   </div>
 </div>
 
@@ -433,7 +433,7 @@ body { font-family: 'Noto Sans SC', sans-serif; background: var(--bg); color: va
 
 </div><!-- /main -->
 
-<div class="footer">优学互连教育 · 2026届国网校园招聘笔试培训 · 3月17日 滚动开班</div>
+<div class="footer">优学互连教育 · 2026届国网校园招聘面试培训 · 3月17日 滚动开班</div>
 
 <script>
 function switchTab(name) {
